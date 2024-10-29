@@ -75,8 +75,8 @@
       "name": "CVS Health Corporation",
       "marketCap": "$71,063,248,962",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$1.28",
-      "noOfEsts": "3"
+      "epsForecast": "$1.34",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "11/01/2023",
@@ -570,7 +570,7 @@
       "name": "Performance Food Group Company",
       "marketCap": "$12,864,199,392",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$1.22",
+      "epsForecast": "$1.21",
       "noOfEsts": "6"
     },
     {
@@ -878,7 +878,7 @@
       "name": "Jazz Pharmaceuticals plc",
       "marketCap": "$6,765,097,020",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$4.56",
+      "epsForecast": "$4.54",
       "noOfEsts": "7"
     },
     {
@@ -988,7 +988,7 @@
       "name": "Ionis Pharmaceuticals, Inc.",
       "marketCap": "$5,730,012,656",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "($1.16)",
+      "epsForecast": "($1.17)",
       "noOfEsts": "9"
     },
     {
@@ -1012,17 +1012,6 @@
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "11/07/2023",
-      "lastYearEPS": "$0.60",
-      "time": "time-after-hours",
-      "symbol": "RRR",
-      "name": "Red Rock Resorts, Inc.",
-      "marketCap": "$5,554,803,432",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.37",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "11/08/2023",
@@ -1198,7 +1187,7 @@
       "marketCap": "$4,404,280,977",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.05",
-      "noOfEsts": "6"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "10/30/2023",
@@ -1421,6 +1410,17 @@
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "11/08/2023",
+      "lastYearEPS": "($0.07)",
+      "time": "time-pre-market",
+      "symbol": "FOLD",
+      "name": "Amicus Therapeutics, Inc.",
+      "marketCap": "$3,467,147,983",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "$0.02",
+      "noOfEsts": "6"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
@@ -1428,7 +1428,7 @@
       "name": "Core Scientific, Inc.",
       "marketCap": "$3,452,444,585",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "($0.12)",
+      "epsForecast": "($0.11)",
       "noOfEsts": "2"
     },
     {
@@ -1463,6 +1463,17 @@
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.82",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "12/13/2023",
+      "lastYearEPS": "$0.19",
+      "time": "time-after-hours",
+      "symbol": "MWA",
+      "name": "Mueller Water Products Inc",
+      "marketCap": "$3,379,216,888",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "$0.23",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/06/2023",
@@ -1518,17 +1529,6 @@
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.07",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "11/01/2023",
-      "lastYearEPS": "$16.78",
-      "time": "time-not-supplied",
-      "symbol": "CAR",
-      "name": "Avis Budget Group, Inc.",
-      "marketCap": "$2,937,296,511",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$8.79",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "11/01/2023",
@@ -1681,7 +1681,7 @@
       "name": "Guardant Health, Inc.",
       "marketCap": "$2,523,182,778",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "($0.80)",
+      "epsForecast": "($0.79)",
       "noOfEsts": "5"
     },
     {
@@ -2077,7 +2077,7 @@
       "name": "AMC Entertainment Holdings, Inc.",
       "marketCap": "$1,561,053,405",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "($0.05)",
+      "epsForecast": "($0.07)",
       "noOfEsts": "4"
     },
     {
@@ -2499,17 +2499,6 @@
       "noOfEsts": "12"
     },
     {
-      "lastYearRptDt": "11/01/2023",
-      "lastYearEPS": "$0.41",
-      "time": "time-not-supplied",
-      "symbol": "OXLC",
-      "name": "Oxford Lane Capital Corp.",
-      "marketCap": "$913,136,000",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
       "lastYearRptDt": "11/08/2023",
       "lastYearEPS": "$0.23",
       "time": "time-after-hours",
@@ -2708,6 +2697,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "11/07/2023",
+      "lastYearEPS": "$0.07",
+      "time": "time-after-hours",
+      "symbol": "CRSR",
+      "name": "Corsair Gaming, Inc.",
+      "marketCap": "$656,122,194",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "$0",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "11/09/2023",
       "lastYearEPS": "($0.12)",
       "time": "time-after-hours",
@@ -2792,7 +2792,7 @@
       "name": "American Coastal Insurance Corporation",
       "marketCap": "$583,042,998",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.15",
+      "epsForecast": "$0.35",
       "noOfEsts": "1"
     },
     {
@@ -3160,6 +3160,17 @@
     },
     {
       "lastYearRptDt": "11/08/2023",
+      "lastYearEPS": "$0.04",
+      "time": "time-after-hours",
+      "symbol": "APPS",
+      "name": "Digital Turbine, Inc.",
+      "marketCap": "$316,550,003",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "($0.05)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/08/2023",
       "lastYearEPS": "($0.21)",
       "time": "time-after-hours",
       "symbol": "MTRX",
@@ -3343,6 +3354,17 @@
       "marketCap": "$241,263,886",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "11/08/2023",
+      "lastYearEPS": "($0.23)",
+      "time": "time-after-hours",
+      "symbol": "SERA",
+      "name": "Sera Prognostics, Inc.",
+      "marketCap": "$232,245,393",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "($0.22)",
       "noOfEsts": "1"
     },
     {
@@ -3905,6 +3927,17 @@
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "($0.59)",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "11/09/2023",
+      "lastYearEPS": "($0.11)",
+      "time": "time-pre-market",
+      "symbol": "MOGO",
+      "name": "Mogo Inc.",
+      "marketCap": "$24,716,720",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "($0.13)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "11/13/2023",
