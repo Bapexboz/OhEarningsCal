@@ -73,7 +73,7 @@
       "time": "time-after-hours",
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "marketCap": "$38,896,608,000",
+      "marketCap": "$39,329,016,000",
       "fiscalQuarterEnding": "Oct/2024",
       "epsForecast": "($0.60)",
       "noOfEsts": "12"
@@ -91,25 +91,25 @@
     },
     {
       "lastYearRptDt": "11/15/2023",
-      "lastYearEPS": "($0.20)",
-      "time": "time-not-supplied",
-      "symbol": "CTLT",
-      "name": "Catalent, Inc.",
-      "marketCap": "$10,722,690,151",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.05",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "11/15/2023",
       "lastYearEPS": "($0.62)",
       "time": "time-not-supplied",
       "symbol": "XPEV",
       "name": "XPeng Inc.",
-      "marketCap": "$10,492,457,350",
+      "marketCap": "$11,435,175,890",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "11/15/2023",
+      "lastYearEPS": "($0.20)",
+      "time": "time-not-supplied",
+      "symbol": "CTLT",
+      "name": "Catalent, Inc.",
+      "marketCap": "$10,671,880,314",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "$0.05",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/15/2023",
@@ -139,7 +139,7 @@
       "time": "time-after-hours",
       "symbol": "CPA",
       "name": "Copa Holdings, S.A.",
-      "marketCap": "$4,217,434,140",
+      "marketCap": "$4,254,008,778",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$3.48",
       "noOfEsts": "7"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "TBBB",
       "name": "BBB Foods Inc.",
-      "marketCap": "$3,842,875,756",
+      "marketCap": "$3,839,509,733",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.03",
       "noOfEsts": "2"
@@ -161,7 +161,7 @@
       "time": "time-pre-market",
       "symbol": "SR",
       "name": "Spire Inc.",
-      "marketCap": "$3,743,963,229",
+      "marketCap": "$3,769,373,437",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "($0.45)",
       "noOfEsts": "4"
@@ -183,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "CAAP",
       "name": "Corporacion America Airports SA",
-      "marketCap": "$3,058,793,529",
+      "marketCap": "$3,097,966,978",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -205,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "ZIM",
       "name": "ZIM Integrated Shipping Services Ltd.",
-      "marketCap": "$2,742,535,095",
+      "marketCap": "$2,735,317,897",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$6.19",
       "noOfEsts": "3"
@@ -238,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "DAVA",
       "name": "Endava plc",
-      "marketCap": "$1,465,160,142",
+      "marketCap": "$1,452,173,227",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.10",
       "noOfEsts": "2"
@@ -271,7 +271,7 @@
       "time": "time-not-supplied",
       "symbol": "UTI",
       "name": "Universal Technical Institute Inc",
-      "marketCap": "$895,428,634",
+      "marketCap": "$903,500,407",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.30",
       "noOfEsts": "4"
@@ -315,7 +315,7 @@
       "time": "time-not-supplied",
       "symbol": "AUNA",
       "name": "Auna SA",
-      "marketCap": "$513,727,160",
+      "marketCap": "$514,466,335",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "$0.17",
       "noOfEsts": "2"
@@ -326,7 +326,7 @@
       "time": "time-not-supplied",
       "symbol": "DSX",
       "name": "Diana Shipping inc.",
-      "marketCap": "$272,315,821",
+      "marketCap": "$268,716,934",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
