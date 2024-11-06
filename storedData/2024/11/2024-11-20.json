@@ -68,17 +68,6 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "11/15/2023",
-      "lastYearEPS": "($0.20)",
-      "time": "time-not-supplied",
-      "symbol": "CTLT",
-      "name": "Catalent, Inc.",
-      "marketCap": "$10,650,104,670",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "$0.05",
-      "noOfEsts": "3"
-    },
-    {
       "lastYearRptDt": "11/20/2023",
       "lastYearEPS": "$0.09",
       "time": "time-pre-market",
@@ -103,7 +92,7 @@
     {
       "lastYearRptDt": "11/15/2023",
       "lastYearEPS": "($0.20)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "GLBE",
       "name": "Global-E Online Ltd.",
       "marketCap": "$6,385,611,167",
@@ -163,7 +152,7 @@
       "name": "KinderCare Learning Companies, Inc.",
       "marketCap": "$3,267,439,162",
       "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
+      "epsForecast": "($0.03)",
       "noOfEsts": "2"
     },
     {
@@ -295,6 +284,17 @@
       "name": "Pure Cycle Corporation",
       "marketCap": "$266,032,529",
       "fiscalQuarterEnding": "Aug/2024",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.04)",
+      "time": "time-after-hours",
+      "symbol": "ICG",
+      "name": "Intchains Group Limited",
+      "marketCap": "$236,755,163",
+      "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "2"
     },
