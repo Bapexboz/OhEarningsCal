@@ -18,10 +18,10 @@
       "time": "time-not-supplied",
       "symbol": "VALU",
       "name": "Value Line, Inc.",
-      "marketCap": "$488,138,775",
+      "marketCap": "$491,152,559",
       "fiscalQuarterEnding": "Oct/2024",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "12/15/2023",
@@ -44,17 +44,6 @@
       "fiscalQuarterEnding": "Oct/2024",
       "epsForecast": "",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.38)",
-      "time": "time-not-supplied",
-      "symbol": "SJ",
-      "name": "Scienjoy Holding Corporation",
-      "marketCap": "$38,126,663",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
