@@ -2,23 +2,12 @@
   "date": "2025-01-01",
   "data": [
     {
-      "lastYearRptDt": "1/03/2024",
-      "lastYearEPS": "$0.35",
-      "time": "time-not-supplied",
-      "symbol": "CALM",
-      "name": "Cal-Maine Foods, Inc.",
-      "marketCap": "$5,005,163,924",
-      "fiscalQuarterEnding": "Nov/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$2.77",
+      "lastYearEPS": "$4.67",
       "time": "time-not-supplied",
-      "symbol": "IMKTA",
-      "name": "Ingles Markets, Incorporated",
-      "marketCap": "$1,258,567,353",
+      "symbol": "DJCO",
+      "name": "Daily Journal Corp. (S.C.)",
+      "marketCap": "$793,659,086",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -107,17 +96,6 @@
       "symbol": "SOGP",
       "name": "Sound Group Inc.",
       "marketCap": "$10,983,809",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "FORD",
-      "name": "Forward Industries, Inc.",
-      "marketCap": "$4,943,799",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "1"
