@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "NBIS",
       "name": "Nebius Group N.V.",
-      "marketCap": "$9,872,081,094",
+      "marketCap": "$10,143,192,804",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -18,20 +18,9 @@
       "time": "time-not-supplied",
       "symbol": "GBX",
       "name": "Greenbrier Companies, Inc. (The)",
-      "marketCap": "$1,944,019,765",
+      "marketCap": "$1,980,687,557",
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "$1.16",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "AMBI",
-      "name": "Ambipar Emergency Response",
-      "marketCap": "$293,223,911",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -40,7 +29,18 @@
       "time": "time-not-supplied",
       "symbol": "DRUG",
       "name": "Bright Minds Biosciences Inc.",
-      "marketCap": "$277,105,741",
+      "marketCap": "$279,190,288",
+      "fiscalQuarterEnding": "Sep/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "AMBI",
+      "name": "Ambipar Emergency Response",
+      "marketCap": "$277,204,684",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "HURC",
       "name": "Hurco Companies, Inc.",
-      "marketCap": "$123,056,345",
+      "marketCap": "$124,410,739",
       "fiscalQuarterEnding": "Oct/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "NRT",
       "name": "North European Oil Royality Trust",
-      "marketCap": "$35,935,206",
+      "marketCap": "$35,843,301",
       "fiscalQuarterEnding": "Oct/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "BTCM",
       "name": "BIT Mining Limited",
-      "marketCap": "$31,003,381",
+      "marketCap": "$32,447,983",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "RVSN",
       "name": "Rail Vision Ltd.",
-      "marketCap": "$24,334,267",
+      "marketCap": "$15,557,842",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "RGF",
       "name": "The Real Good Food Company, Inc.",
-      "marketCap": "$8,673,682",
+      "marketCap": "$8,252,629",
       "fiscalQuarterEnding": "Sep/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
