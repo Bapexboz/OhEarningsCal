@@ -2,6 +2,17 @@
   "date": "2025-01-30",
   "data": [
     {
+      "lastYearRptDt": "1/31/2024",
+      "lastYearEPS": "$5.67",
+      "time": "time-pre-market",
+      "symbol": "TMO",
+      "name": "Thermo Fisher Scientific Inc",
+      "marketCap": "$198,988,112,860",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$5.92",
+      "noOfEsts": "10"
+    },
+    {
       "lastYearRptDt": "1/25/2024",
       "lastYearEPS": "$0.84",
       "time": "time-pre-market",
@@ -47,6 +58,17 @@
     },
     {
       "lastYearRptDt": "1/23/2024",
+      "lastYearEPS": "$1.48",
+      "time": "time-after-hours",
+      "symbol": "CNI",
+      "name": "Canadian National Railway Company",
+      "marketCap": "$63,900,545,000",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.48",
+      "noOfEsts": "10"
+    },
+    {
+      "lastYearRptDt": "1/23/2024",
       "lastYearEPS": "$0.51",
       "time": "time-after-hours",
       "symbol": "BKR",
@@ -64,7 +86,7 @@
       "name": "Valero Energy Corporation",
       "marketCap": "$38,810,183,100",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.56",
+      "epsForecast": "$0.40",
       "noOfEsts": "6"
     },
     {
@@ -123,6 +145,17 @@
       "noOfEsts": "7"
     },
     {
+      "lastYearRptDt": "2/06/2024",
+      "lastYearEPS": "$2.28",
+      "time": "time-pre-market",
+      "symbol": "CHKP",
+      "name": "Check Point Software Technologies Ltd.",
+      "marketCap": "$21,079,629,920",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$2.31",
+      "noOfEsts": "12"
+    },
+    {
       "lastYearRptDt": "1/25/2024",
       "lastYearEPS": "$0.16",
       "time": "time-after-hours",
@@ -156,6 +189,17 @@
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "2/01/2024",
+      "lastYearEPS": "$0.16",
+      "time": "time-pre-market",
+      "symbol": "SNDR",
+      "name": "Schneider National, Inc.",
+      "marketCap": "$5,129,421,982",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.20",
+      "noOfEsts": "7"
+    },
+    {
       "lastYearRptDt": "1/25/2024",
       "lastYearEPS": "$0.90",
       "time": "time-pre-market",
@@ -165,6 +209,50 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.71",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "1/30/2024",
+      "lastYearEPS": "$1.23",
+      "time": "time-after-hours",
+      "symbol": "ATGE",
+      "name": "Adtalem Global Education Inc.",
+      "marketCap": "$3,406,039,906",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.38",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "1/25/2024",
+      "lastYearEPS": "$0.61",
+      "time": "time-after-hours",
+      "symbol": "FISI",
+      "name": "Financial Institutions, Inc.",
+      "marketCap": "$422,294,029",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.74",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($1.76)",
+      "time": "time-pre-market",
+      "symbol": "SILC",
+      "name": "Silicom Ltd",
+      "marketCap": "$104,474,080",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.32",
+      "time": "time-after-hours",
+      "symbol": "BAFN",
+      "name": "BayFirst Financial Corp.",
+      "marketCap": "$54,968,713",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "4"
     }
   ]
 }
