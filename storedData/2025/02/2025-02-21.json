@@ -26,7 +26,7 @@
     {
       "lastYearRptDt": "2/16/2024",
       "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "USM",
       "name": "United States Cellular Corporation",
       "marketCap": "$5,666,540,000",
@@ -37,7 +37,7 @@
     {
       "lastYearRptDt": "2/16/2024",
       "lastYearEPS": "$0.82",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BCPC",
       "name": "Balchem Corporation",
       "marketCap": "$5,342,643,124",
@@ -59,7 +59,7 @@
     {
       "lastYearRptDt": "2/16/2024",
       "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "TDS",
       "name": "Telephone and Data Systems, Inc.",
       "marketCap": "$4,177,610,000",
@@ -109,6 +109,17 @@
       "marketCap": "$2,186,220,886",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/23/2024",
+      "lastYearEPS": "$4.10",
+      "time": "time-pre-market",
+      "symbol": "AGM",
+      "name": "Federal Agricultural Mortgage Corporation",
+      "marketCap": "$2,173,023,994",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$4.16",
       "noOfEsts": "2"
     },
     {

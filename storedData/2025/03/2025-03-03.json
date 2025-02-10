@@ -123,6 +123,17 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "FSCO",
+      "name": "FS Credit Opportunities Corp.",
+      "marketCap": "$1,366,672,151",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "3/04/2024",
       "lastYearEPS": "($0.16)",
       "time": "time-not-supplied",
@@ -231,17 +242,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.91",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.29)",
-      "time": "time-not-supplied",
-      "symbol": "SOHU",
-      "name": "Sohu.com Limited ",
-      "marketCap": "$436,573,115",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "3/04/2024",

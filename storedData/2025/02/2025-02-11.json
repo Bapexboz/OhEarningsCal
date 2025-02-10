@@ -388,17 +388,6 @@
     },
     {
       "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "$0.70",
-      "time": "time-not-supplied",
-      "symbol": "BRKR",
-      "name": "Bruker Corporation",
-      "marketCap": "$8,492,533,404",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.75",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "$5.02",
       "time": "time-pre-market",
       "symbol": "AN",
@@ -460,8 +449,8 @@
       "name": "Upstart Holdings, Inc.",
       "marketCap": "$5,942,593,613",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.38)",
-      "noOfEsts": "3"
+      "epsForecast": "($0.37)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -1242,18 +1231,7 @@
       "marketCap": "$176,376,595",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.01)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.08",
-      "time": "time-not-supplied",
-      "symbol": "VOXX",
-      "name": "VOXX International Corporation",
-      "marketCap": "$166,538,265",
-      "fiscalQuarterEnding": "Nov/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -1300,17 +1278,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "2/13/2024",
-      "lastYearEPS": "($0.09)",
-      "time": "time-not-supplied",
-      "symbol": "NB",
-      "name": "NioCorp Developments Ltd.",
-      "marketCap": "$93,588,300",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.01)",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "3/07/2024",
       "lastYearEPS": "($0.65)",
       "time": "time-pre-market",
@@ -1328,17 +1295,6 @@
       "symbol": "OMCC",
       "name": "Old Market Capital Corporation",
       "marketCap": "$78,740,000",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.42",
-      "time": "time-not-supplied",
-      "symbol": "UBCP",
-      "name": "United Bancorp, Inc.",
-      "marketCap": "$76,413,387",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
