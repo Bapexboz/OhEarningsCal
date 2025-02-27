@@ -35,6 +35,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "3/26/2024",
+      "lastYearEPS": "$1.56",
+      "time": "time-pre-market",
+      "symbol": "ESLT",
+      "name": "Elbit Systems Ltd.",
+      "marketCap": "$13,266,859,000",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.95",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "3/19/2024",
       "lastYearEPS": "$0.34",
       "time": "time-not-supplied",
@@ -97,7 +108,7 @@
       "name": "Braskem S.A.",
       "marketCap": "$1,901,525,024",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.34)",
+      "epsForecast": "($0.38)",
       "noOfEsts": "2"
     },
     {
@@ -209,6 +220,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.13)",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "3/20/2024",
+      "lastYearEPS": "($0.22)",
+      "time": "time-pre-market",
+      "symbol": "SNDL",
+      "name": "SNDL Inc.",
+      "marketCap": "$429,462,000",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.01)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",

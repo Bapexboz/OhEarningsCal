@@ -20,8 +20,8 @@
       "name": "JOYY Inc.",
       "marketCap": "$3,169,987,732",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.58",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -220,17 +220,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.32)",
       "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "3/18/2024",
-      "lastYearEPS": "($0.31)",
-      "time": "time-not-supplied",
-      "symbol": "XGN",
-      "name": "Exagen Inc.",
-      "marketCap": "$60,848,609",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.27)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "3/18/2024",
