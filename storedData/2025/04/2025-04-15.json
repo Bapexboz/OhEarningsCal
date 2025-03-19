@@ -357,6 +357,17 @@
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
+      "symbol": "NAYA",
+      "name": "NAYA Biosciences, Inc. ",
+      "marketCap": "$11,816,133",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
       "symbol": "BSGM",
       "name": "BioSig Technologies, Inc.",
       "marketCap": "$11,788,691",
@@ -404,6 +415,17 @@
       "symbol": "GWAV",
       "name": "Greenwave Technology Solutions, Inc.",
       "marketCap": "$7,337,996",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($99.99)",
+      "time": "time-not-supplied",
+      "symbol": "HEPA",
+      "name": "Hepion Pharmaceuticals, Inc.",
+      "marketCap": "$7,236,706",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
