@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:SbCKv-r-D1G3_8DUfWhii
+UID:vykQ5qyMft2ZNm_utGp2g
 SUMMARY:家得宝 发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250225
 DESCRIPTION:财务季度：Jan/2025。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.04，当前市值: $390\
 	,679\,581\,673。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DdE6143WFf7ktqOIM1Xi4
+UID:HJJqvPU2f_YasMF_GlrQt
 SUMMARY:赛富时 发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $1.95，当前市值: $2
 	94\,114\,810\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2b4PA36KPpn6q-QgcWByW
+UID:X7Vt_mj-O6mBKxlWObPeX
 SUMMARY:耐克 发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250320
 DESCRIPTION:财务季度：Feb/2025。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.28，当前市值: $107\
 	,961\,471\,482。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:U7jG4FhL35un67tO2ONRb
+UID:Ksjfx54ViZ6eIli3_ie0t
 SUMMARY:沃尔格林博姿联合公司 发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250327
 DESCRIPTION:财务季度：Feb/2025。\n代码：WBA，公司：沃尔格林博姿联合公司，行业: 零售。\n预计每股收益: $0.53，当前市
 	值: $9\,609\,386\,564。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WBA \n
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GxnmKYogF95oGQjF2UaLz
+UID:FRf8KOx0Nw1sRYLvAhXO9
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250411
 DESCRIPTION:财务季度：Mar/2025。\n代码：JPM，公司：摩根大通，行业: 银行。\n预计每股收益: $4.58，当前市值: $66
 	8\,297\,318\,722。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:j_g3UYJ_hGaCa8sXfcr5-
+UID:dweo3VuvfDgRS4YQiqZiw
 SUMMARY:联合健康保险 发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025。\n代码：UNH，公司：联合健康保险，行业: 保健管理。\n预计每股收益: $7.27，当前市值:
 	 $467\,692\,415\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Thxv5XnUv_vwYIJknxReE
+UID:dgcPhfLHrUgEAUDVgFfa5
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250415
 DESCRIPTION:财务季度：Mar/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.59，当前市值: $392\
 	,489\,673\,293。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qcB_Hxaf1X6DzSNuXcCkV
+UID:y2rQPCnxNw2nMrPCoucRc
 SUMMARY:旅行者保险 盘前发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250416
 DESCRIPTION:财务季度：Mar/2025。\n代码：TRV，公司：旅行者保险，行业: 保险。\n预计每股收益: $0.53，当前市值: $5
 	8\,844\,617\,092。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:REhX7zsiQmPzF3S-_H-x8
+UID:fz74xLLv6a_HS9BpXVkWr
 SUMMARY:美国运通 发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250418
 DESCRIPTION:财务季度：Mar/2025。\n代码：AXP，公司：美国运通，行业: 金融服务。\n预计每股收益: $3.47，当前市值: $
 	190\,266\,771\,622。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富
@@ -150,13 +150,29 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mp1Dhdb3gAA7vRxHVuC7i
+UID:SWbG_Gca9I9INMW2v8N3v
 SUMMARY:高盛 发布财报
-DTSTAMP:20250323T163835Z
+DTSTAMP:20250324T043916Z
 DTSTART;VALUE=DATE:20250421
 DESCRIPTION:财务季度：Mar/2025。\n代码：GS，公司：高盛，行业: 银行、金融服务。\n预计每股收益: $12.27，当前市值: 
 	$175\,578\,123\,088。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富
 	途查看：https://www.futunn.com/hk/stock/GS-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:jXaCE_6d5Y8ru_bPPchu2
+SUMMARY:维萨 发布财报
+DTSTAMP:20250324T043916Z
+DTSTART;VALUE=DATE:20250422
+DESCRIPTION:财务季度：Mar/2025。\n代码：V，公司：维萨，行业: 零售银行。\n预计每股收益: $2.68，当前市值: $630\
+	,715\,399\,801。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=V \n在富途查看：ht
+	tps://www.futunn.com/hk/stock/V-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
