@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:p4PUOy1EM805ApdIQslT9
+UID:iQ9jjc0S81dmM4eVrs-pE
 SUMMARY:京东 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250306
 DESCRIPTION:财务季度：Dec/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.84，当前市值: $69\
 	,047\,426\,249。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:K8rRmh5A5iKo6xoU2TOHn
+UID:pn9X7aMbACnGxH2g7U0_F
 SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250311
 DESCRIPTION:财务季度：Dec/2024。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.13，当前市值:
 	 $8\,037\,452\,697。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Zl4pJ7mv6zi_CbMzj6zZs
+UID:seuEL2F1Hic7waN--5rxS
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250314
 DESCRIPTION:财务季度：Dec/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $30\,073\
 	,003\,939。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iUOfHmEQjVmugDVD1cZJS
+UID:dMjjzjvoNub_Tm1IHoRkG
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250318
 DESCRIPTION:财务季度：Dec/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $23\,15
 	3\,167\,342。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:R1vewlW_N3VK_2ZPmlQY1
+UID:I1Jmni6DiJ78y9sKqQ3SZ
 SUMMARY:拼多多 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250320
 DESCRIPTION:财务季度：Dec/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.31，当前市值: $1
 	73\,249\,901\,339。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZoF5z047NCQ4xVjEzDJlE
+UID:LTz2c5-jZafqaoWoBnCWt
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250321
 DESCRIPTION:财务季度：Dec/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.33)，当前市值: $9\
 	,830\,566\,112。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YQfh0u25cuRTn3uZFB9Ta
+UID:IF5QHoy4BysW55RT-3Ie4
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250417
 DESCRIPTION:财务季度：Mar/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.02，当前市值: $81
 	6\,237\,866\,481。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:S2Ola5-Vb7KbsmpegA3au
+UID:WGVvqxxxRObehX9LorMPa
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250429
 DESCRIPTION:财务季度：Mar/2025。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
 	股收益: $0.38，当前市值: $19\,181\,317\,297。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:50Jif7tTUO0W-ZPg7gq14
+UID:4mW8sVaucnUtTQ89FBRzJ
 SUMMARY:Novo Nordisk 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.92，当
 	前市值: $299\,601\,500\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8sJC3WSF87BQb9jscivfq
+UID:KqRrP0y3duxLHoRObdaqz
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $2.12，当前
 	市值: $43\,352\,457\,785。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Dp7wJe0LNSNE3yEOxm4Nt
+UID:1BPF0n7ZeBv8FxQLGWftX
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20250404T164009Z
+DTSTAMP:20250405T043800Z
 DTSTART;VALUE=DATE:20250501
 DESCRIPTION:财务季度：Mar/2025。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.05)，
 	当前市值: $33\,110\,584\,673。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
