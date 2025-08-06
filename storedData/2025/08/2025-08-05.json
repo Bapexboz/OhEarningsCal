@@ -2609,6 +2609,17 @@
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "EVTL",
+      "name": "Vertical Aerospace Ltd.",
+      "marketCap": "$520,844,761",
+      "fiscalQuarterEnding": "Jun/2025",
+      "epsForecast": "($0.43)",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "7/31/2024",
       "lastYearEPS": "$0.34",
       "time": "time-pre-market",
