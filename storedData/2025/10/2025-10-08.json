@@ -2,8 +2,8 @@
   "date": "2025-10-08",
   "data": [
     {
-      "lastYearRptDt": "10/09/2024",
-      "lastYearEPS": "$1.37",
+      "eps": "$1.37",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "AZZ",
       "name": "AZZ Inc.",
@@ -13,8 +13,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/01/2024",
-      "lastYearEPS": "($0.17)",
+      "eps": "($0.17)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RGP",
       "name": "Resources Connection, Inc.",
@@ -24,8 +24,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/09/2024",
-      "lastYearEPS": "$0.04",
+      "eps": "$0.04",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RELL",
       "name": "Richardson Electronics, Ltd.",
@@ -35,8 +35,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/09/2024",
-      "lastYearEPS": "($0.52)",
+      "eps": "($0.52)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BSET",
       "name": "Bassett Furniture Industries, Incorporated",
