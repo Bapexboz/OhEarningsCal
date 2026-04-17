@@ -244,6 +244,17 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.16",
+      "time": "time-not-supplied",
+      "symbol": "WABC",
+      "name": "Westamerica Bancorporation",
+      "marketCap": "$1,289,295,233",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "4/17/2025",
       "lastYearEPS": "$0.55",
       "time": "time-pre-market",
