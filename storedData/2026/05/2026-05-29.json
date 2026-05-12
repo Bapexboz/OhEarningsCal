@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "CHA",
       "name": "Chagee Holdings Limited",
-      "marketCap": "$2,096,488,953",
+      "marketCap": "$1,991,569,123",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.22",
       "noOfEsts": "1"
@@ -18,21 +18,10 @@
       "time": "time-not-supplied",
       "symbol": "TIGR",
       "name": "UP Fintech Holding Limited",
-      "marketCap": "$1,219,766,730",
+      "marketCap": "$1,210,281,764",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "5/30/2025",
-      "lastYearEPS": "$0.34",
-      "time": "time-not-supplied",
-      "symbol": "SCVL",
-      "name": "Shoe Carnival, Inc.",
-      "marketCap": "$489,218,422",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$0.11",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "5/30/2025",
@@ -40,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "CGC",
       "name": "Canopy Growth Corporation",
-      "marketCap": "$468,772,342",
+      "marketCap": "$467,198,042",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.06)",
       "noOfEsts": "3"
@@ -51,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "HTT",
       "name": "High Templar Tech Limited",
-      "marketCap": "$350,940,719",
+      "marketCap": "$346,282,214",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -62,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "ENLV",
       "name": "Enlivex Ltd.",
-      "marketCap": "$193,586,230",
+      "marketCap": "$179,147,412",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.02)",
       "noOfEsts": "1"
@@ -73,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "NRT",
       "name": "North European Oil Royality Trust",
-      "marketCap": "$74,627,591",
+      "marketCap": "$76,925,238",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -84,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "NTRB",
       "name": "Nutriband Inc.",
-      "marketCap": "$46,071,176",
+      "marketCap": "$44,369,338",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -95,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "PSTV",
       "name": "PLUS THERAPEUTICS, Inc.",
-      "marketCap": "$40,829,067",
+      "marketCap": "$41,446,649",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.94)",
       "noOfEsts": "2"
