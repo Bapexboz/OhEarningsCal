@@ -2,9 +2,9 @@
   "date": "2026-05-19",
   "data": [
     {
-      "eps": "$3.43",
-      "surprise": "0.88",
-      "time": "time-not-supplied",
+      "eps": "$3.56",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "HD",
       "name": "Home Depot, Inc. (The)",
       "marketCap": "$298,619,052,145",
@@ -35,9 +35,9 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "$0.17",
-      "surprise": "70",
-      "time": "time-not-supplied",
+      "eps": "$0.10",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "BEKE",
       "name": "KE Holdings Inc",
       "marketCap": "$20,111,150,469",
@@ -46,9 +46,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.38",
-      "surprise": "22.58",
-      "time": "time-not-supplied",
+      "eps": "$0.26",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "AS",
       "name": "Amer Sports, Inc.",
       "marketCap": "$18,486,673,879",
@@ -123,9 +123,9 @@
       "noOfEsts": "10"
     },
     {
-      "eps": "$0.09",
-      "surprise": "12.5",
-      "time": "time-not-supplied",
+      "eps": "$0.02",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "BILI",
       "name": "Bilibili Inc.",
       "marketCap": "$8,178,322,191",
@@ -134,9 +134,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$1.91",
-      "surprise": "29.93",
-      "time": "time-not-supplied",
+      "eps": "$2.08",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "EXP",
       "name": "Eagle Materials Inc",
       "marketCap": "$6,180,501,295",
@@ -145,9 +145,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.19",
-      "surprise": "-13.64",
-      "time": "time-not-supplied",
+      "eps": "$0.33",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "MMYT",
       "name": "MakeMyTrip Limited",
       "marketCap": "$4,999,020,665",
@@ -156,20 +156,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$1.27",
+      "eps": "($0.02)",
       "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "CMBT",
-      "name": "CMB.TECH NV",
-      "marketCap": "$4,758,623,364",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "eps": "$0.02",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "HSAI",
       "name": "Hesai Group",
       "marketCap": "$3,443,245,258",
@@ -189,37 +178,15 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "$0.31",
+      "eps": "$0.22",
       "surprise": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "DRVN",
       "name": "Driven Brands Holdings Inc.",
       "marketCap": "$2,341,828,064",
-      "fiscalQuarterEnding": "Dec/2025",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "eps": "$0.55",
-      "surprise": "-1.79",
-      "time": "time-not-supplied",
-      "symbol": "THR",
-      "name": "Thermon Group Holdings, Inc.",
-      "marketCap": "$2,103,938,227",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0.56",
+      "epsForecast": "$0.21",
       "noOfEsts": "3"
-    },
-    {
-      "eps": "$1.03",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "OXLC",
-      "name": "Oxford Lane Capital Corp.",
-      "marketCap": "$1,722,112,000",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "eps": "$0.41",
@@ -233,9 +200,9 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "($0.20)",
+      "eps": "($0.06)",
       "surprise": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "LUXE",
       "name": "LuxExperience B.V.",
       "marketCap": "$1,062,355,454",
@@ -244,9 +211,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.08",
-      "surprise": "33.33",
-      "time": "time-not-supplied",
+      "eps": "$0.04",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "RERE",
       "name": "ATRenew Inc.",
       "marketCap": "$986,692,482",
@@ -274,12 +241,12 @@
       "marketCap": "$664,140,683",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
-      "eps": "($0.03)",
+      "eps": "($0.08)",
       "surprise": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "ECX",
       "name": "ECARX Holdings Inc.",
       "marketCap": "$392,491,784",
@@ -310,9 +277,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "($0.13)",
-      "surprise": "-85.71",
-      "time": "time-not-supplied",
+      "eps": "($0.27)",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "CAN",
       "name": "Canaan Inc.",
       "marketCap": "$371,664,433",
@@ -351,7 +318,7 @@
       "marketCap": "$302,038,271",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.13)",
@@ -365,9 +332,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.19",
-      "surprise": "5.56",
-      "time": "time-not-supplied",
+      "eps": "$0.16",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "RDCM",
       "name": "Radcom Ltd.",
       "marketCap": "$255,197,088",
@@ -376,9 +343,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.20",
-      "surprise": "-9.09",
-      "time": "time-not-supplied",
+      "eps": "$0.28",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "ECC",
       "name": "Eagle Point Credit Company Inc.",
       "marketCap": "$243,863,346",
@@ -387,20 +354,20 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "$0",
+      "eps": "$0.02",
       "surprise": "N/A",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "CRNT",
       "name": "Ceragon Networks Ltd.",
       "marketCap": "$228,143,174",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0.01",
+      "epsForecast": "$0",
       "noOfEsts": "2"
     },
     {
-      "eps": "$0.10",
-      "surprise": "25",
-      "time": "time-not-supplied",
+      "eps": "$0.09",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "ANTA",
       "name": "Antalpha Platform Holding Company",
       "marketCap": "$208,494,964",
@@ -439,7 +406,7 @@
       "marketCap": "$125,912,883",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "N/A",
@@ -450,7 +417,7 @@
       "marketCap": "$116,811,471",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.37)",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.20)",
@@ -464,9 +431,9 @@
       "noOfEsts": "N/A"
     },
     {
-      "eps": "$0.36",
-      "surprise": "9.09",
-      "time": "time-not-supplied",
+      "eps": "$0.40",
+      "surprise": "N/A",
+      "time": "time-pre-market",
       "symbol": "EIC",
       "name": "Eagle Point Income Company Inc.",
       "marketCap": "$95,226,784",
@@ -484,28 +451,6 @@
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "1"
-    },
-    {
-      "eps": "($0.18)",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "SYPR",
-      "name": "Sypris Solutions, Inc.",
-      "marketCap": "$64,201,053",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "eps": "($0.42)",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "ELTK",
-      "name": "Eltek Ltd.",
-      "marketCap": "$54,329,801",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "eps": "$0.01",
@@ -560,7 +505,7 @@
       "marketCap": "$32,102,841",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($1.80)",
@@ -637,7 +582,7 @@
       "marketCap": "$17,494,659",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.54)",
@@ -651,17 +596,6 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "($0.06)",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "IHT",
-      "name": "InnSuites Hospitality Trust",
-      "marketCap": "$11,506,043",
-      "fiscalQuarterEnding": "Jan/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
       "eps": "$1",
       "surprise": "N/A",
       "time": "time-not-supplied",
@@ -670,7 +604,7 @@
       "marketCap": "$11,176,740",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.20)",
@@ -681,7 +615,7 @@
       "marketCap": "$10,302,896",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.15)",
@@ -714,7 +648,7 @@
       "marketCap": "$6,495,150",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "$34",
@@ -725,7 +659,7 @@
       "marketCap": "$6,030,398",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.32)",
@@ -736,7 +670,7 @@
       "marketCap": "$5,927,733",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "$4",
@@ -758,7 +692,7 @@
       "marketCap": "$5,898,813",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($99.99)",
@@ -791,7 +725,7 @@
       "marketCap": "$2,088,329",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "N/A"
     }
   ]
 }
